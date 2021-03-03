@@ -1,0 +1,11 @@
+Inicializar git
+-> git init
+
+Agregar un repositorio
+-> git remote add origin [url_repository].git
+
+Crear un archivo con texto
+-> echo "un texto para el archivo" > nombre_archivo.ext
+
+
+git branch -M main
